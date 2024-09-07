@@ -19,6 +19,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +116,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search Tree
 |  |
