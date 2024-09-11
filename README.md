@@ -43,6 +43,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -87,6 +88,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0906-walking-robot-simulation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
 | [2155-find-missing-observations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -151,6 +153,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
