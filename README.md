@@ -110,6 +110,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0130-surrounded-regions) |
+| [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0733-flood-fill](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0733-flood-fill) |
 | [0906-walking-robot-simulation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Design
@@ -171,6 +173,7 @@
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Iterator
@@ -224,4 +227,8 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
