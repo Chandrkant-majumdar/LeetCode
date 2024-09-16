@@ -173,6 +173,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -231,4 +232,12 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
