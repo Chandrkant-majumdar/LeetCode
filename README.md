@@ -175,6 +175,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2155-find-missing-observations) |
@@ -237,6 +238,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0213-house-robber-ii) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
