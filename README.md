@@ -152,6 +152,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1250-longest-common-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Design
@@ -266,6 +267,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
