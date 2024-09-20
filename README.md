@@ -149,6 +149,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -280,4 +281,16 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
