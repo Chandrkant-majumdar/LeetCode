@@ -158,6 +158,7 @@
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -278,6 +279,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
