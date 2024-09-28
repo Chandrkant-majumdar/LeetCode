@@ -135,6 +135,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0733-flood-fill) |
+| [0859-design-circular-deque](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0967-minimum-falling-path-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
@@ -184,6 +185,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0859-design-circular-deque) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -366,4 +369,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
