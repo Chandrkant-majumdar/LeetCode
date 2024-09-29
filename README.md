@@ -129,6 +129,7 @@
 | [0189-rotate-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Matrix
 |  |
