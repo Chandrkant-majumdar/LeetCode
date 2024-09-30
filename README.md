@@ -154,6 +154,7 @@
 | [1073-number-of-enclaves](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -199,6 +200,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Linked List
 |  |
 | ------- |
