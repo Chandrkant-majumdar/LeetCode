@@ -123,6 +123,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0283-move-zeroes) |
