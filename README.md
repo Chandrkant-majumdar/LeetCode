@@ -100,6 +100,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -165,6 +166,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1694-make-sum-divisible-by-p](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -322,6 +324,7 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Sorting
 |  |
 | ------- |
