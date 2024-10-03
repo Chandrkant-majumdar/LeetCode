@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> rearrangeArray(vector<int>& nums) {
+    vector<int> rearrangeArray1(vector<int>& nums) {
         vector<int>pos,neg;
 
         for(auto x:nums){
@@ -15,5 +15,19 @@ public:
             nums[i]=neg[ne++];
         }
         return nums;
+    }
+        vector<int> rearrangeArray(vector<int>& nums) {
+        int p=0,n=1;
+        vector<int>ans(nums.size());
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]>0){
+                ans[p]=nums[i];
+                p+=2;
+            }else{
+                ans[n]=nums[i];
+                n+=2;
+            }
+        }
+        return ans;
     }
 };
