@@ -16,8 +16,29 @@ public:
             }
         }
         vector<vector<int>>ans(s.begin(),s.end());
-        return ans;
+            return ans;
     }
+        vector<vector<int>> threeSum2(vector<int>& nums) {
+        set<vector<int>>s;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            set<int>st;
+            for(int j=i+1;j<n;j++){
+                   int third=-(nums[i]+nums[j]);
+                   if(st.find(third)!=st.end()){
+                    vector<int>t({nums[i],nums[j],third});
+                    sort(t.begin(),t.end());
+                    s.insert(t);
+                   }
+                   st.insert(nums[j]);
+                }
+            }
+            vector<vector<int>>ans(s.begin(),s.end());
+            return ans;
+        }
+        
+        
+    
     vector<vector<int>> threeSum(vector<int>& nums) {
         set<vector<int>>s;
         int n=nums.size();
