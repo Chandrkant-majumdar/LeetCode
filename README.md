@@ -177,6 +177,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2155-find-missing-observations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -216,6 +217,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
@@ -279,6 +281,7 @@
 | [0189-rotate-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1923-sentence-similarity-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
