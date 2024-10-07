@@ -199,6 +199,7 @@
 | [2155-find-missing-observations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
