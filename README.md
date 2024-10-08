@@ -115,6 +115,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
@@ -171,6 +172,7 @@
 | [0485-max-consecutive-ones](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
