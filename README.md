@@ -112,6 +112,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
@@ -154,6 +155,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
