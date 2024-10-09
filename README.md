@@ -118,6 +118,7 @@
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
@@ -188,6 +189,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1694-make-sum-divisible-by-p](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
