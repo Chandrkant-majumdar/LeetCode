@@ -119,6 +119,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -187,6 +188,7 @@
 | [0907-koko-eating-bananas](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
