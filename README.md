@@ -116,6 +116,7 @@
 | [0162-find-peak-element](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -175,6 +176,7 @@
 | [0283-move-zeroes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0518-coin-change-ii) |
@@ -369,6 +371,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -407,6 +410,7 @@
 | [0213-house-robber-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0518-coin-change-ii) |
@@ -432,6 +436,7 @@
 | [0044-wildcard-matching](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
