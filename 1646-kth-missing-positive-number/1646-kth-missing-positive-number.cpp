@@ -18,10 +18,10 @@ public:
        while(l<=h){
         int m=(l+h)/2;
         int mis=arr[m]-(m+1);
-        if(mis>=k){
-            h=m-1;
-        }else{
+        if(mis<k){
             l=m+1;
+        }else{
+            h=m-1;
         }
        }
        //h+1+k
