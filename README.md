@@ -261,6 +261,7 @@
 | [1250-longest-common-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -285,6 +286,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
