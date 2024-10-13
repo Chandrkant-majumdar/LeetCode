@@ -247,6 +247,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0812-rotate-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -465,6 +466,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
