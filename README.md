@@ -94,6 +94,7 @@
 | [0127-word-ladder](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -245,6 +246,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -406,6 +408,7 @@
 | [0169-majority-element](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
