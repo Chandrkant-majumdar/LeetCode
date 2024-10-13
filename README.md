@@ -96,6 +96,7 @@
 | [0229-majority-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -188,6 +189,7 @@
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0733-flood-fill) |
@@ -406,6 +408,7 @@
 | [0229-majority-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -454,6 +457,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -485,6 +489,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Shortest Path
@@ -504,4 +509,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0859-design-circular-deque) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
