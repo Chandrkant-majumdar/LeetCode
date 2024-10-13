@@ -1,0 +1,13 @@
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+    
+        if(s.size()!=goal.size()) return false;
+        s+=s;
+        // cout<<type(s.find(goal));
+        auto it=s.find(goal);
+        if(s.find(goal)<s.size()) return true;
+        
+        return false;
+    }
+};
