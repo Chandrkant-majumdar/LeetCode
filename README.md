@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -240,6 +241,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0072-edit-distance) |
@@ -313,6 +315,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0070-climbing-stairs) |
