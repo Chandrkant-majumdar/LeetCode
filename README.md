@@ -260,6 +260,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -470,6 +471,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -503,6 +505,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1304-longest-happy-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
