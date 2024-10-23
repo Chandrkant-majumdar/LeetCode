@@ -10,7 +10,19 @@
  */
 class Solution {
 public:
+    ListNode * f(ListNode *head){
+        if(!head || head->next== nullptr) return head;
+
+        ListNode *Nhead=f(head->next);
+        ListNode *front=head->next;
+        front->next=head;
+        head->next=nullptr;
+        return Nhead;
+    }
     ListNode* reverseList(ListNode* head) {
+        return f(head);
+    }
+    ListNode* reverseList1(ListNode* head) {
         if(!head) return head;
         ListNode *prev=NULL,*cur=head;
         while(cur->next!=NULL){
