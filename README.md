@@ -44,6 +44,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -212,6 +213,7 @@
 | [1073-number-of-enclaves](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -274,6 +276,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -522,6 +525,7 @@
 | [0014-longest-common-prefix](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Recursion
 |  |
