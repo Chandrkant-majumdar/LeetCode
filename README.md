@@ -234,6 +234,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -398,6 +399,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
