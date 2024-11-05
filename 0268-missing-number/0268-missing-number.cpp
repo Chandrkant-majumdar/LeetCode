@@ -1,13 +1,25 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        vector<int>hash(nums.size()+1,0);
+    int missingNumber1(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>v(n+1,0);
         for(auto x:nums){
-            hash[x]++;
+            v[x]++;
         }
-        for(int i=0;i<hash.size();i++){
-            if(hash[i]==0) return i;
+        int ans;
+        for(int i=0;i<=n;i++){
+            if(v[i]==0) {ans=i;break;}
         }
-        return -1;
+
+        return ans;
+    }
+    int missingNumber(vector<int>& nums){
+        int n=nums.size();
+        int sum=0;
+        for(auto x:nums){
+            sum+=x;
+        }
+        int ans=(n*(n+1))/2-sum;
+        return ans;
     }
 };
