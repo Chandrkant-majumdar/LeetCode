@@ -10,7 +10,14 @@ public:
         return dp[i]=tk1+tk2;
     }
     int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
-        return f(n,dp);
+        vector<int>dp(n+1,0);
+        dp[0]=1;
+        for(int i=1;i<=n;i++){
+            int tk1=dp[i-1];
+            int  tk2=(i-2>=0)?dp[i-2]:0;
+            dp[i]=tk1+tk2;
+        }
+
+        return dp[n];
     }
 };
