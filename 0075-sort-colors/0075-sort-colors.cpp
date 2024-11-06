@@ -1,36 +1,32 @@
 class Solution {
 public:
-    // void sortColors(vector<int>& nums) {
-    //     vector<int>a(3,0);
-    //     for(auto x:nums){
-    //         a[x]++;
-    //     }
-    //     for(int i=0;i<a[0];i++){
-    //         nums[i]=0;
-    //     }
-    //     for(int i=a[0];i<a[0]+a[1];i++){
-    //         nums[i]=1;
-    //     }
-    //     for(int i=a[0]+a[1];i<a[0]+a[1]+a[2];i++){
-    //         nums[i]=2;
-    //     }
-    // }
-        void sortColors(vector<int>& nums) {
-            int l=0,m=0,h=nums.size()-1;
-            while(m<=h){
-                if(nums[m]==0){
-                    swap(nums[l],nums[m]);
-                    l++;
-                    m++;
+ void sortColors(vector<int>& nums) {
+    int s=0,m=0,l=nums.size()-1;
+    while(m<=l){
+        if(nums[m]==1) m++;
+        else if(nums[m]==0){
+            swap(nums[s++],nums[m++]);
+        }else{
+            swap(nums[m],nums[l--]);
+        }
+    }
 
-                }
-                else if(nums[m]==1) m++;
-                else{
-                    swap(nums[m],nums[h]);
-                    // m++;
-                    h--;
-                }
-            }
-
-       }
+ }
+    void sortColors1(vector<int>& nums) {
+        int z=0,o=0,t=0;
+         for(auto x:nums){
+            if(x==0) z++;
+            else if(x==1) o++;
+            else t++;
+         }
+         for(int i=0;i<z;i++){
+            nums[i]=0;
+         }
+         for(int i=z;i<z+o;i++){
+            nums[i]=1;
+         }
+         for(int i=o+z;i<o+z+t;i++){
+            nums[i]=2;
+         }
+    }
 };
