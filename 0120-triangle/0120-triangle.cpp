@@ -1,30 +1,22 @@
 class Solution {
 public:
-    int f(int i,int j,vector<vector<int>>& ma, vector<vector<int>>&dp){
-        int n=ma.size();
+   int f(int i,int j,vector<vector<int>>& t,vector<vector<int>>&dp){
+    int n=t.size();
+     int m=t[i].size();
+    if(i>=n || j>=m) return 1e9;
 
-        // int m=ma[0]
-        if(i<0 || j<0 || j>i ){
-            return 1e9;
-        }
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(i==0 && j==0) return ma[i][j];
-        int up=ma[i][j]+f(i-1,j,ma,dp);
-        int down=ma[i][j]+f(i-1,j-1,ma,dp);
-        // int dig=ma[i][j]+f(i-1,j+1,ma);
-
-        return dp[i][j]=min(up,down);
+    if(i==n-1){
+        return t[i][j];
     }
-    int minimumTotal(vector<vector<int>>& ma) {
-       int n=ma.size();
-       int m=ma[n-1].size();
-        int ans=INT_MAX;
-       
-        for(int i=0;i<m;i++){
-             vector<vector<int>>dp(n,vector<int>(m,-1));
-            ans=min(ans,f(n-1,i,ma,dp));
-        }
-        return ans;
-        
+    if(dp[i][j]!=-1) return dp[i][j];
+    int down=t[i][j]+f(i+1,j,t,dp);
+    int dig=t[i][j]+f(i+1,j+1,t,dp);
+    return dp[i][j]=min(down,dig);
+   }
+    int minimumTotal(vector<vector<int>>& t) {
+         int n=t.size();
+     int m=t[n-1].size();
+        vector<vector<int>>dp(n,vector<int>(m,-1));
+        return f(0,0,t,dp);
     }
 };
