@@ -1,28 +1,24 @@
 class Solution {
 public:
-    int f(int i,int c,vector<int>& co, vector<vector<int>>&dp){
-
-        if(i==0){
-            
-            if(c%co[0]==0){
-                return c/co[0];
-            }
-            else
-             return 1e9;
-
-        }
-
-        if(dp[i][c]!=-1) return dp[i][c];
-
-        int tk=(c>=co[i])?1+f(i,c-co[i],co,dp):1e9;
-        int nt=f(i-1,c,co,dp);
-        return dp[i][c]=min(tk,nt);
-    }
-    int coinChange(vector<int>& co, int c) {
-        int n=co.size();
-        vector<vector<int>>dp(n,vector<int>(c+1,-1));
-        if(f(n-1,c,co,dp)==1e9) return -1;
+   int f(int i,int a, vector<vector<int>>&dp,vector<int>& c){
+    
+    if(i==0){
         
-        return f(n-1,c,co,dp);
+            if(a%c[i]==0) return a/c[i];
+        
+      
+        return 1e9;
+        
+    }
+    if(dp[i][a]!=-1) return dp[i][a];
+    int tk=(a>=c[i])?1+f(i,a-c[i],dp,c):1e9;
+    int nt=f(i-1,a,dp,c);
+    return dp[i][a]=min(tk,nt);
+   }
+    int coinChange(vector<int>& arr, int sum) {
+         int n=arr.size();
+        vector<vector<int>>dp(n,vector<int>(sum+1,-1));
+        int ans=f(n-1,sum,dp,arr);
+        return ans==1e9?-1:ans;
     }
 };
