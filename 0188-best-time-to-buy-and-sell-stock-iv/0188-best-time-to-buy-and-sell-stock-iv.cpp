@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int f(int i,int b,int c,vector<int>& p,vector<vector<vector<int>>>&dp){
-         int n=p.size();
-        if(i==n || c==0) return 0;
+   int f(int day ,int buy,vector<int>& p,int c,vector<vector<vector<int>>>&dp){
 
-        int pro=0;
-        if(dp[i][b][c]!=-1) return dp[i][b][c];
-        if(b){
-            pro=max(-p[i]+f(i+1,!b,c,p,dp),f(i+1,b,c,p,dp));
-        }else{
-            pro=max(p[i]+f(i+1,!b,c-1,p,dp),f(i+1,b,c,p,dp));
+        if(day==p.size() || c==0) return 0;
+      if(dp[day][buy][c]!=-1) return dp[day][buy][c]; 
+        if(buy){
+            return  dp[day][buy][c]=max(-p[day]+f(day+1,!buy,p,c,dp),f(day+1,buy,p,c,dp));
         }
-        return dp[i][b][c]= pro;
-    }
+
+        return dp[day][buy][c]=max(p[day]+f(day+1,!buy,p,c-1,dp),f(day+1,buy,p,c,dp));
+     }
+    
     int maxProfit(int k,vector<int>& p) {
         int n=p.size();
+        // int m=s2.size();
         vector<vector<vector<int>>>dp(n,vector<vector<int>>(2,vector<int>(k+1,-1)));
-        return f(0,1,k,p,dp);
+        int c=2;
+        int ans= f(0,1,p,k,dp);
+        return ans==-1e9?0:ans;
     }
 };
