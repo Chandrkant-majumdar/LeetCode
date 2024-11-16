@@ -244,6 +244,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
@@ -603,6 +604,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
