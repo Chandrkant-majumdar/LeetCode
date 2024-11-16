@@ -12,7 +12,40 @@ public:
       }
       return true;
    }
-    bool isBipartite(vector<vector<int>>& g) {
+   bool bfs(int src,vector<vector<int>>& g,vector<int>&vis,vector<int>&c){
+            queue<int>q;
+            q.push(src);
+            vis[src]=1;
+            c[src]=0;
+            while(!q.empty()){
+                 int node=q.front();
+                 q.pop();
+                 for(auto x:g[node]){
+                    if(!vis[x]){
+                        c[x]=!c[node];
+                        vis[x]=1;
+                        q.push(x);
+                    }else if(c[x]==c[node]){
+                        return false;
+                    }
+                 }
+            }
+            return true;
+   }
+   bool isBipartite(vector<vector<int>>& g){
+         int n=g.size();
+        vector<int>vis(n,0);
+         vector<int>c(n,-1);
+        //  queue<int>q;
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                if(bfs(i,g,vis,c)==false) return false;
+            }
+        }
+        return true;
+         
+   }
+    bool isBipartite1(vector<vector<int>>& g) {
         int n=g.size();
         vector<int>vis(n,0);
          vector<int>c(n,-1);
