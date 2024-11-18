@@ -20,6 +20,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -45,6 +46,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -65,6 +67,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -89,6 +92,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
@@ -114,6 +118,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -486,6 +491,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
