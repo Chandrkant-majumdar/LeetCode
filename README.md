@@ -75,6 +75,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -236,6 +237,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -436,6 +438,7 @@
 | [0130-surrounded-regions](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1073-number-of-enclaves) |
