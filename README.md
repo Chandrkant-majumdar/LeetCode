@@ -327,6 +327,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -427,6 +428,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Matrix
 |  |
 | ------- |
