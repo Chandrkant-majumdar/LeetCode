@@ -170,6 +170,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3427-special-array-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
@@ -496,6 +498,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [3427-special-array-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
