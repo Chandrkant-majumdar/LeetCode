@@ -145,6 +145,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -170,6 +171,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
@@ -334,6 +336,7 @@
 | [2580-circular-sentence](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3451-string-compression-iii) |
 ## Design
 |  |
@@ -483,6 +486,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -639,6 +643,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Bucket Sort
 |  |
