@@ -276,6 +276,7 @@
 | [3427-special-array-ii](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -285,6 +286,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [2155-find-missing-observations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Iterator
 |  |
 | ------- |
@@ -622,6 +625,7 @@
 | [1304-longest-happy-string](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
