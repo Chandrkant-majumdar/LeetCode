@@ -282,6 +282,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
 | ------- |
@@ -541,6 +542,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3430-count-days-without-meetings](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Chandrkant-majumdar/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
