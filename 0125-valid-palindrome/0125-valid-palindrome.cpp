@@ -4,7 +4,7 @@ public:
         string r="",t="";
         // cout<<int('A')<<int('a');
         for(auto c:s){
-            if(isalpha(c) || isdigit(c))
+            if(isalnum(c))
             t+=tolower(c); 
         }
         r=t;
